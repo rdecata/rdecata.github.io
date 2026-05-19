@@ -9,7 +9,7 @@ skills:
   - Soldering
   - FDM 3D Printing 
 
-main-image: /project2.jpg
+main-image: /HAM.png
 ---
 
 ---
