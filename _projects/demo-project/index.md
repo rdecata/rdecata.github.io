@@ -1,10 +1,7 @@
 ---
 layout: post
 title: AERPAW HAM & LAM
-description: The AERPAW research lab is the first wireless research platform to study the convergence of 5G technology and autonomous drones.
-My role for the research team was the structural design and manufacturing research assistant. 
-I helped design and manufactured the Large AERPAW Multirotor (LAM), Heavy AERPAW Multirotor (HAM), and AMIGA rover.
-             
+description: 
 skills: 
   - Structural Design
   - Fusion 360 (CAM)
