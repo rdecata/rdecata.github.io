@@ -32,7 +32,7 @@ Designed landing gear feet with same press fit design feature as the leg clamp a
 This plate was designed to be made out of carbon fiber and to help stregthen the ASA plastic leg clamps for increased durability.
 
 ### Full Landing Gear Assembly:
-{% include image-gallery.html images="HamFullLegASSM.png , HAMFullLegASSMattached.png , HamLegClampSection.png" height="400" %}
+{% include image-gallery.html images="HamLegClampSection.png , HamFullLegASSM.png , HAMFullLegASSMattached.png" height="400" %}
 The full landing gear assembly for HAM.
 
 ### HAM:
