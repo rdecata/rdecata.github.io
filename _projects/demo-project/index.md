@@ -20,10 +20,12 @@ main-image: /HAM.png
 {% include image-gallery.html images="LeftLegClampISO.png , LeftLegClampSide.png" height="400" %} 
 Designed left leg clamp and symmetric right leg clamp that both attach around one of the hexacopter's arms.  
 <br> Implemented a press fit design feature shown within the landing gear leg housing to ensure that landing gear does not fall out during flight.
+<br> Implemented a 20 degree tilt for the landing gear to orient away from payload underneath drone.
 
 ### Landing Gear Feet:
-{% include image-gallery.html images="HamFullLegASSM.png , HAMFullLegASSMattached.png" height="400" %}
-The full landing gear assembly for HAM.
+{% include image-gallery.html images="HAMFootPic1.png , HAMFootPic2.png" height="400" %}
+Designed landing gear feet with same press fit design feature as the leg clamp attachments.
+<br> Implemented a 70 degree tilt to align landing gear leg and foot to ensure a flat and smooth contact with ground upon landing.
 
 ### Leg Clamp Attachment Plate:
 {% include image-gallery.html images="HAMLegClampPlate.png" height="400" %}
