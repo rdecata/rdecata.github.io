@@ -36,7 +36,7 @@ This plate was designed to be made out of carbon fiber and to help stregthen the
 The full landing gear assembly for HAM.
 
 ### HAM:
-{% include image-gallery.html images="Ham.png" height="400" %}
+{% include image-gallery.html images="HAM.png" height="400" %}
 Full model of Heavy AERPAW Multirotor with landing gear attached.
 
 ## Embedding youtube video
