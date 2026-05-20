@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AERPAW HAM & LAM
-description: 
+description: Test
 skills: 
   - Structural Design
   - Fusion 360 (CAM)
@@ -20,7 +20,7 @@ Use this for the header of each section
 ### Header 3 
 Use this to have subsection if needed
 
-## HAM Landing Gear 
+## HAM Landing Gear: 
 ### Leg Clamp Attachment
 {% include image-gallery.html images="LeftLegClampISO.jpg" height="400" %} 
 {% include image-gallery.html images="LeftLegClampSide.jpg" height="400" %}
