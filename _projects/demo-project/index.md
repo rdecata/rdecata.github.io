@@ -23,7 +23,7 @@ Designed left leg clamp and symmetric right leg clamp that both attach around on
 <br> Implemented a 20 degree tilt for the landing gear to orient away from payload underneath drone.
 
 ### Landing Gear Feet:
-{% include image-gallery.html images="HAMFootPic1.png , HAMFootPic2.png" height="400" %}
+{% include image-gallery.html images="HAMFootPic1.png , HAMFootPic2.png , HamFootSection.png" height="400" %}
 Designed landing gear feet with same press fit design feature as the leg clamp attachments.
 <br> Implemented a 70 degree tilt to align landing gear leg and foot to ensure a flat and smooth contact with ground upon landing.
 
@@ -32,7 +32,7 @@ Designed landing gear feet with same press fit design feature as the leg clamp a
 This plate was designed to be made out of carbon fiber and to help stregthen the ASA plastic leg clamps for increased durability.
 
 ### Full Landing Gear Assembly:
-{% include image-gallery.html images="HamFullLegASSM.png , HAMFullLegASSMattached.png" height="400" %}
+{% include image-gallery.html images="HamFullLegASSM.png , HAMFullLegASSMattached.png , HamLegClampSection.png" height="400" %}
 The full landing gear assembly for HAM.
 
 ### HAM:
