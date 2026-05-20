@@ -23,16 +23,16 @@ Use this to have subsection if needed
 
 ## HAM Landing Gear: 
 ### Leg Clamp Attachment
-{% include image-gallery.html images="LeftLegClampISO.jpg" height="400" %} 
-{% include image-gallery.html images="LeftLegClampSide.jpg" height="400" %}
-
+{% include image-gallery.html images="LeftLegClampISO.png" height="400" %} 
+{% include image-gallery.html images="LeftLegClampSide.png" height="400" %}
+Designed left leg clamp that attaches with a symmetric right leg clamp around one of the hexacopter's arms.   
 
 ### Leg Clamp Attachment Plate
-{% include image-gallery.html images="LeftLegClampPlate.jpg" height="400" %}
+{% include image-gallery.html images="LeftLegClampPlate.png" height="400" %}
 This plate was designed to be made out of carbon fiber and to help stregthen the ASA plastic leg clamps for increased durability.
 
 ### Full Landing Gear Assembly
-{% include image-gallery.html images="HAMFullLegASSM.jpg" height="400" %}
+{% include image-gallery.html images="HAMFullLegASSM.png" height="400" %}
 The full landing gear assembly for HAM.
 
 
