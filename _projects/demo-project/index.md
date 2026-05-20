@@ -1,14 +1,17 @@
 ---
 layout: post
 title: AERPAW HAM & LAM
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+description: The AERPAW research lab is the first wireless research platform to study the convergence of 5G technology and autonomous drones.
+My role for the research team was the structural design and manufacturing research assistant. 
+I helped design and manufactured the Large AERPAW Multirotor (LAM), Heavy AERPAW Multirotor (HAM), and AMIGA rover.
+             
 skills: 
   - Structural Design
+  - Fusion 360 (CAM)
   - CNC Machining
   - Soldering
   - FDM 3D Printing 
-
+  
 main-image: /HAM.png
 ---
 
@@ -20,16 +23,19 @@ Use this for the header of each section
 ### Header 3 
 Use this to have subsection if needed
 
+## HAM Landing Gear 
+### Leg Clamp Attachment
+{% include image-gallery.html images="LeftLegClampISO.jpg" height="400" %} 
+{% include image-gallery.html images="LeftLegClampSide.jpg" height="400" %}
+Designed left leg clamp that attaches with a symmetric right leg clamp around one of the hexacopter's arms.   
 
-## Embedding images 
-### External images
-{% include image-gallery.html images="https://live.staticflickr.com/65535/52821641477_d397e56bc4_k.jpg, https://live.staticflickr.com/65535/52822650673_f074b20d90_k.jpg" height="400"%}
-<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
+### Leg Clamp Attachment Plate
+{% include image-gallery.html images="LeftLegClampPlate.jpg" height="400" %}
+This plate was designed to be made out of carbon fiber and to help stregthen the ASA plastic leg clamps for increased durability.
 
-### Embeed images
-{% include image-gallery.html images="project2.jpg" height="400" %} 
-place the images in project folder/images then update the file path.   
+### Full Landing Gear Assembly
+{% include image-gallery.html images="HAMFullLegASSM.jpg" height="400" %}
+The full landing gear assembly for HAM.
 
 
 ## Embedding youtube video
