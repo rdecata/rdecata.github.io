@@ -23,8 +23,7 @@ Use this to have subsection if needed
 
 ## HAM Landing Gear: 
 ### Leg Clamp Attachment
-{% include image-gallery.html images="LeftLegClampISO.png" height="400" %} 
-{% include image-gallery.html images="LeftLegClampSide.png" height="400" %}
+{% include image-gallery.html images="LeftLegClampISO.png","LeftLegClampSide.png" height="400" %} 
 Designed left leg clamp that attaches with a symmetric right leg clamp around one of the hexacopter's arms.   
 
 ### Leg Clamp Attachment Plate
