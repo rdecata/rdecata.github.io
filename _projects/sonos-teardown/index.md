@@ -9,7 +9,7 @@ skills:
   - PCB analysis
   - audio system design
 
-main-image: /BETTER FINAL 10ft Render_Beauty.png
+main-image: /10ftRenderReal_Beauty.png
 ---
 
 
