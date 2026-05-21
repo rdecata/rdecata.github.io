@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sonos Teardown
+title: Capstone Senior Design Project
 description: Conducted detailed teardown analysis of Sonos Era speaker, documenting internal components, driver configuration, and PCB design. Created technical documentation with photos and assembly insights for engineering reference. 
 skills: 
   - drumel
@@ -9,8 +9,8 @@ skills:
   - PCB analysis
   - audio system design
 
-main-image: /sonos.png
+main-image: /BETTER FINAL 10ft Render_Beauty.png
 ---
 
-# This is another demo
+
 
