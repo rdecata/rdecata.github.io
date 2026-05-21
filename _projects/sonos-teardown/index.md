@@ -12,5 +12,5 @@ skills:
 main-image: /10ftRenderReal_Beauty.png
 ---
 # STAR
-
+{% include image-gallery.html images="Better Final 10ft Render_Beauty.png" height="400" %}
 
