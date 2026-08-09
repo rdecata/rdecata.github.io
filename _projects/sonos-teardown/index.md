@@ -18,14 +18,15 @@ main-image: /10ftRenderReal_Beauty.png
 ## Stability Analysis
 I utilized the Athena Vortex Lattice (AVL) software was used to determine the stability of the UAV; where its dimensions, weight, CG, and the potential flight conditions the UAV would face were inputted into. From here, various tests were conducted such as differing sideslip angles, angles of attack, and bank angles. The results were examined and I suggested different redesigns to make the UAV more stable. One such major modification that I suggested and was implemented was the addition of 5 degrees of dihedral to the wings, which greatly helped the spiral stability of our UAV.  
 
-### 6 Foot Wing Configuration
-{% include image-gallery.html images="AVL 6ft VV&T.png"  %}
-Here is the UAV modeled in AVL in its 6 foot wing configuration.
+### AVL Setup Files:
 
-### 10 Foot Wing Configuration
-{% include image-gallery.html images="AVL VV&T.png"  %}
-Here is the UAV modeled in AVL in its 10 foot wing configuration. 
+### 6 Foot and 10 Foot Wing Configurations:
+{% include image-gallery.html images="AVL 6ft VV&T.png, AVL VV&T.png"  %}
+Here is the UAV modeled in AVL in its 6 foot and 10 foot wing configurations.
+
 
 ### Stability Results:
-{% include image-gallery.html images="6ft AVL Results.png, 10ft AVL Results.png"  %}
+{% include image-gallery.html images="6ft AVL Results.png, 10ft AVL Results.png" height="350" %}
 6ft and 10ft AVL Stability Results respectfully.
+
+## Part Designs:
